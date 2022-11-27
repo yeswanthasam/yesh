@@ -4,7 +4,10 @@ searching job
 learning devops
 i want job
 my goal software
-<<<<<<< HEAD
 i make it
-=======
->>>>>>> 82458d3c9d57609e7bba7a4672318575ac94ce7b
+
+
+
+
+
+hello
