@@ -2,4 +2,8 @@ this is yeswanth
 i am completed degree
 searching job
 learning devops
+<<<<<<< HEAD
 i want job
+=======
+my goal software
+>>>>>>> refs/remotes/origin/main
