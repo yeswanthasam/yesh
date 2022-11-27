@@ -5,4 +5,8 @@ learning devops
 i want job
 my goal software
 i make it
+<<<<<<< HEAD
 love
+=======
+love you
+>>>>>>> 8546d2818a7aa8aafe70f677dcc129e9ad16067b
